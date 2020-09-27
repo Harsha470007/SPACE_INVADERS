@@ -2,6 +2,7 @@ SPACE INVADERS
 ==============
 
 Before we get stared
+--------------------
 
 consider using sulime text as your editor : https://www.sublimetext.com/
 
