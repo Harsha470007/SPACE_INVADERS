@@ -8,6 +8,8 @@ consider using sulime text as your editor : https://www.sublimetext.com/
 
 and Kite as your AI autocompleter : https://www.kite.com/
 
+And remember to try 'main2.py'
+
 To Tim
 
 requirements
