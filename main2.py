@@ -4,6 +4,7 @@ import time
 import random
 pygame.font.init()
 
+#difficulty settings
 
 ch = int(input('Enter difficulty (1:easy,2:medium,3:hard):'))
 if ch == 1:
