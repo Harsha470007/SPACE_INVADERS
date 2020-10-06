@@ -10,7 +10,7 @@ and Kite as your AI autocompleter : https://www.kite.com/
 
 And remember to try 'main2.py'
 
-To Tim
+To Tim, Mantej, Aravind
 
 requirements
 ------------
