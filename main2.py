@@ -4,10 +4,6 @@ import time
 import random
 pygame.font.init()
 
-#scores
-
-
-
 #difficulty settings
 
 ch = int(input('Enter difficulty (1:easy,2:medium,3:hard):'))
@@ -229,10 +225,13 @@ def main():
         if len(enemies) == 0:
             level += 1
             score += 5
+
+            #scores
             f = open('your_score.txt','w')
             string = str(score)
             f.write(string)
             f.close()
+            
             wave_length += 5
             for i in range(wave_length):
                 enemy = Enemy(random.randrange(50, WIDTH-100), random.randrange(-1500, -100), random.choice(["red", "blue", "green"]))
