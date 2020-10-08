@@ -8,6 +8,8 @@ this is a python program and you can download it from here : https://www.python.
 
 make sure to check the add to path check box
 
+in your cmd type 'pip install pygame'
+
 consider using sulime text as your editor : https://www.sublimetext.com/
 
 and Kite as your AI autocompleter : https://www.kite.com/
