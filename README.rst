@@ -10,6 +10,9 @@ make sure to check the add to path check box
 
 in your cmd type 'pip install pygame'
 
+Editor
+------
+
 consider using sulime text as your editor : https://www.sublimetext.com/
 
 and Kite as your AI autocompleter : https://www.kite.com/
@@ -18,7 +21,10 @@ And remember to try 'main2.py'
 
 once you finished playing you can check your score in 'your_score.txt'
 
-To Tim, Mantej, Aravind
+Credits
+-------
+
+To Tim, Mantej, Aravind and Harsha
 
 requirements
 ------------
