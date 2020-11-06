@@ -8,7 +8,13 @@ this is a python program and you can download it from here : https://www.python.
 
 make sure to check the add to path check box
 
+If you are using windows,
+
 in your cmd type 'pip install pygame'
+
+else, if you are using Mac
+
+you can learn it from here : https://youtu.be/E-WhAS6qzsU
 
 Editor
 ------
