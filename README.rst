@@ -30,7 +30,12 @@ once you finished playing you can check your score in 'your_score.txt'
 Credits
 -------
 
-To Tim, Mantej, Aravind and Harsha
+To Tim
+
+Team members
+------------
+
+Mantej, Aravind and Harsha
 
 requirements
 ------------
